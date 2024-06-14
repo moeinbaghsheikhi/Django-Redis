@@ -1,4 +1,4 @@
-![image](https://github.com/moeinbaghsheikhi/Django-Redis/assets/81008392/bad1cf15-8de0-45cd-a5c1-1dba27be39bc)# Django-Redis
+# Django-Redis
 
 برای ایجاد یک پروژه Django که به Redis متصل شود، مراحل زیر را دنبال کنید. این شامل نصب Python، ایجاد پروژه Django، نصب کتابخانه‌های مورد نیاز برای Redis و تنظیمات مرتبط می‌شود.
 
